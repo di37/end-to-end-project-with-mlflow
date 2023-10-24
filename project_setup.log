@@ -1,0 +1,139 @@
+Created directory: .github/workflows
+Created directory: artifacts/data_ingestion
+Created directory: artifacts/data_transformation
+Created directory: artifacts/data_validation
+Created directory: artifacts/model_evaluation
+Created directory: artifacts/model_trainer
+Created directory: docker
+Created directory: config
+Created directory: research
+Created directory: wine_quality
+Created directory: utils
+Created file: .dockerignore
+Created file: .gitignore
+Created file: main_fastapi.py
+Created file: main.py
+Created file: README.md
+Created file: requirements.txt
+Created file: params.yaml
+Created file: schema.yaml
+Created file: config/config.yaml
+Created file: research/01_data_ingestion.ipynb
+Created file: research/02_data_validation.ipynb
+Created file: research/03_data_transformation.ipynb
+Created file: research/04_model_trainer.ipynb
+Created file: research/05_model_evaluation.ipynb
+Created file: research/trails.ipynb
+Created file: utils/__init__.py
+Created file: utils/constants.py
+Created file: utils/helper.py
+Created file: wine_quality/__init__.py
+Created file: wine_quality/helper.py
+Created file: wine_quality/models.py
+Created file: docker/docker_run.sh
+Created file: docker/Dockerfile
+Created directory: .github/workflows
+Created directory: artifacts/data_ingestion
+Created directory: artifacts/data_transformation
+Created directory: artifacts/data_validation
+Created directory: artifacts/model_evaluation
+Created directory: artifacts/model_trainer
+Created directory: docker
+Created directory: config
+Created directory: research
+Created directory: wine_quality
+Created directory: utils
+Created file: .dockerignore
+Created file: .gitignore
+Created file: main_fastapi.py
+Created file: main.py
+Created file: README.md
+Created file: requirements.txt
+Created file: params.yaml
+Created file: schema.yaml
+Created file: config/config.yaml
+Created file: .github/workflows/main.yaml
+Created file: research/01_data_ingestion.ipynb
+Created file: research/02_data_validation.ipynb
+Created file: research/03_data_transformation.ipynb
+Created file: research/04_model_trainer.ipynb
+Created file: research/05_model_evaluation.ipynb
+Created file: research/trails.ipynb
+Created file: utils/__init__.py
+Created file: utils/constants.py
+Created file: utils/helper.py
+Created file: wine_quality/__init__.py
+Created file: wine_quality/helper.py
+Created file: wine_quality/models.py
+Created file: docker/docker_run.sh
+Created file: docker/Dockerfile
+[2023-10-25 01:11:12,722]: Created directory: .github/workflows:
+[2023-10-25 01:11:12,722]: Created directory: artifacts/data_ingestion:
+[2023-10-25 01:11:12,722]: Created directory: artifacts/data_transformation:
+[2023-10-25 01:11:12,722]: Created directory: artifacts/data_validation:
+[2023-10-25 01:11:12,722]: Created directory: artifacts/model_evaluation:
+[2023-10-25 01:11:12,722]: Created directory: artifacts/model_trainer:
+[2023-10-25 01:11:12,722]: Created directory: docker:
+[2023-10-25 01:11:12,722]: Created directory: config:
+[2023-10-25 01:11:12,723]: Created directory: research:
+[2023-10-25 01:11:12,723]: Created directory: wine_quality:
+[2023-10-25 01:11:12,723]: Created directory: utils:
+[2023-10-25 01:11:12,723]: Created file: .dockerignore:
+[2023-10-25 01:11:12,723]: Created file: .gitignore:
+[2023-10-25 01:11:12,723]: Created file: main_fastapi.py:
+[2023-10-25 01:11:12,723]: Created file: main.py:
+[2023-10-25 01:11:12,723]: Created file: README.md:
+[2023-10-25 01:11:12,723]: Created file: requirements.txt:
+[2023-10-25 01:11:12,723]: Created file: params.yaml:
+[2023-10-25 01:11:12,724]: Created file: schema.yaml:
+[2023-10-25 01:11:12,724]: Created file: config/config.yaml:
+[2023-10-25 01:11:12,724]: Created file: .github/workflows/main.yaml:
+[2023-10-25 01:11:12,724]: Created file: research/01_data_ingestion.ipynb:
+[2023-10-25 01:11:12,724]: Created file: research/02_data_validation.ipynb:
+[2023-10-25 01:11:12,724]: Created file: research/03_data_transformation.ipynb:
+[2023-10-25 01:11:12,724]: Created file: research/04_model_trainer.ipynb:
+[2023-10-25 01:11:12,724]: Created file: research/05_model_evaluation.ipynb:
+[2023-10-25 01:11:12,724]: Created file: research/trails.ipynb:
+[2023-10-25 01:11:12,724]: Created file: utils/__init__.py:
+[2023-10-25 01:11:12,724]: Created file: utils/constants.py:
+[2023-10-25 01:11:12,725]: Created file: utils/helper.py:
+[2023-10-25 01:11:12,725]: Created file: wine_quality/__init__.py:
+[2023-10-25 01:11:12,725]: Created file: wine_quality/helper.py:
+[2023-10-25 01:11:12,726]: Created file: wine_quality/models.py:
+[2023-10-25 01:11:12,726]: Created file: docker/docker_run.sh:
+[2023-10-25 01:11:12,727]: Created file: docker/Dockerfile:
+[2023-10-25 01:11:29,114]: Created directory: .github/workflows
+[2023-10-25 01:11:29,114]: Created directory: artifacts/data_ingestion
+[2023-10-25 01:11:29,114]: Created directory: artifacts/data_transformation
+[2023-10-25 01:11:29,114]: Created directory: artifacts/data_validation
+[2023-10-25 01:11:29,114]: Created directory: artifacts/model_evaluation
+[2023-10-25 01:11:29,114]: Created directory: artifacts/model_trainer
+[2023-10-25 01:11:29,114]: Created directory: docker
+[2023-10-25 01:11:29,115]: Created directory: config
+[2023-10-25 01:11:29,115]: Created directory: research
+[2023-10-25 01:11:29,115]: Created directory: wine_quality
+[2023-10-25 01:11:29,115]: Created directory: utils
+[2023-10-25 01:11:29,115]: Created file: .dockerignore
+[2023-10-25 01:11:29,115]: Created file: .gitignore
+[2023-10-25 01:11:29,115]: Created file: main_fastapi.py
+[2023-10-25 01:11:29,115]: Created file: main.py
+[2023-10-25 01:11:29,115]: Created file: README.md
+[2023-10-25 01:11:29,115]: Created file: requirements.txt
+[2023-10-25 01:11:29,115]: Created file: params.yaml
+[2023-10-25 01:11:29,115]: Created file: schema.yaml
+[2023-10-25 01:11:29,115]: Created file: config/config.yaml
+[2023-10-25 01:11:29,115]: Created file: .github/workflows/main.yaml
+[2023-10-25 01:11:29,115]: Created file: research/01_data_ingestion.ipynb
+[2023-10-25 01:11:29,115]: Created file: research/02_data_validation.ipynb
+[2023-10-25 01:11:29,116]: Created file: research/03_data_transformation.ipynb
+[2023-10-25 01:11:29,116]: Created file: research/04_model_trainer.ipynb
+[2023-10-25 01:11:29,116]: Created file: research/05_model_evaluation.ipynb
+[2023-10-25 01:11:29,116]: Created file: research/trails.ipynb
+[2023-10-25 01:11:29,116]: Created file: utils/__init__.py
+[2023-10-25 01:11:29,116]: Created file: utils/constants.py
+[2023-10-25 01:11:29,116]: Created file: utils/helper.py
+[2023-10-25 01:11:29,116]: Created file: wine_quality/__init__.py
+[2023-10-25 01:11:29,116]: Created file: wine_quality/helper.py
+[2023-10-25 01:11:29,117]: Created file: wine_quality/models.py
+[2023-10-25 01:11:29,117]: Created file: docker/docker_run.sh
+[2023-10-25 01:11:29,117]: Created file: docker/Dockerfile
