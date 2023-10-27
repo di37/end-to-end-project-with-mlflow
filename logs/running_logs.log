@@ -1,1 +1,119 @@
 [2023-10-26 16:08:12,502: INFO: main: Welcome to our custom logger]
+[2023-10-27 03:03:54,341: INFO: helper: yaml file: config/config.yaml loaded successfully]
+[2023-10-27 03:03:54,350: INFO: helper: yaml file: params.yaml loaded successfully]
+[2023-10-27 03:05:26,409: INFO: helper: yaml file: config/config.yaml loaded successfully]
+[2023-10-27 03:05:26,411: INFO: helper: yaml file: params.yaml loaded successfully]
+[2023-10-27 03:05:26,413: INFO: helper: yaml file: schema.yaml loaded successfully]
+[2023-10-27 03:05:26,416: INFO: helper: created directory at: artifacts]
+[2023-10-27 03:05:26,417: INFO: helper: created directory at: artifacts/data_ingestion]
+[2023-10-27 03:05:58,495: INFO: helper: yaml file: config/config.yaml loaded successfully]
+[2023-10-27 03:05:58,498: INFO: helper: yaml file: params.yaml loaded successfully]
+[2023-10-27 03:05:58,501: INFO: helper: yaml file: schema.yaml loaded successfully]
+[2023-10-27 03:05:58,503: INFO: helper: created directory at: artifacts]
+[2023-10-27 03:05:58,503: INFO: helper: created directory at: artifacts/data_ingestion]
+[2023-10-27 03:05:59,360: INFO: 1539763644: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1FF2:1C0C60:59424:104157:653AF0D7
+Accept-Ranges: bytes
+Date: Thu, 26 Oct 2023 23:05:59 GMT
+Via: 1.1 varnish
+X-Served-By: cache-fjr990020-FJR
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1698361559.184824,VS0,VE264
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 8e5bdc74b401f12001264944ef668096559400f0
+Expires: Thu, 26 Oct 2023 23:10:59 GMT
+Source-Age: 0
+
+]
+[2023-10-27 03:27:51,134: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-10-27 03:27:51,134: INFO: helper: yaml file: config/config.yaml loaded successfully]
+[2023-10-27 03:27:51,135: INFO: helper: yaml file: params.yaml loaded successfully]
+[2023-10-27 03:27:51,135: INFO: helper: yaml file: schema.yaml loaded successfully]
+[2023-10-27 03:27:51,135: INFO: helper: created directory at: artifacts]
+[2023-10-27 03:27:51,135: INFO: helper: created directory at: artifacts/data_ingestion]
+[2023-10-27 03:27:51,136: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2023-10-27 03:27:51,139: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-10-27 03:45:08,658: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-10-27 03:45:08,659: INFO: helper: yaml file: config/config.yaml loaded successfully]
+[2023-10-27 03:45:08,660: INFO: helper: yaml file: params.yaml loaded successfully]
+[2023-10-27 03:45:08,661: INFO: helper: yaml file: schema.yaml loaded successfully]
+[2023-10-27 03:45:08,661: INFO: helper: created directory at: artifacts]
+[2023-10-27 03:45:08,661: INFO: helper: created directory at: artifacts/data_ingestion]
+[2023-10-27 03:45:09,533: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1FF2:1C0C60:59424:104157:653AF0D7
+Accept-Ranges: bytes
+Date: Thu, 26 Oct 2023 23:45:09 GMT
+Via: 1.1 varnish
+X-Served-By: cache-fjr990028-FJR
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1698363909.344394,VS0,VE373
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 816a78db0a04e0237babe2cfe5d12c7d772dc903
+Expires: Thu, 26 Oct 2023 23:50:09 GMT
+Source-Age: 0
+
+]
+[2023-10-27 03:45:09,537: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-10-27 06:23:46,469: INFO: helper: yaml file: config/config.yaml loaded successfully]
+[2023-10-27 06:23:46,474: INFO: helper: yaml file: params.yaml loaded successfully]
+[2023-10-27 06:23:46,476: INFO: helper: yaml file: schema.yaml loaded successfully]
+[2023-10-27 06:23:46,477: INFO: helper: created directory at: artifacts]
+[2023-10-27 06:24:18,792: INFO: helper: yaml file: config/config.yaml loaded successfully]
+[2023-10-27 06:24:18,794: INFO: helper: yaml file: params.yaml loaded successfully]
+[2023-10-27 06:24:18,795: INFO: helper: yaml file: schema.yaml loaded successfully]
+[2023-10-27 06:24:18,796: INFO: helper: created directory at: artifacts]
+[2023-10-27 06:24:33,017: INFO: helper: yaml file: config/config.yaml loaded successfully]
+[2023-10-27 06:24:33,020: INFO: helper: yaml file: params.yaml loaded successfully]
+[2023-10-27 06:24:33,021: INFO: helper: yaml file: schema.yaml loaded successfully]
+[2023-10-27 06:24:33,022: INFO: helper: created directory at: artifacts]
+[2023-10-27 06:28:55,321: INFO: helper: yaml file: config/config.yaml loaded successfully]
+[2023-10-27 06:28:55,323: INFO: helper: yaml file: params.yaml loaded successfully]
+[2023-10-27 06:28:55,325: INFO: helper: yaml file: schema.yaml loaded successfully]
+[2023-10-27 06:28:55,326: INFO: helper: created directory at: artifacts]
+[2023-10-27 06:29:48,779: INFO: helper: yaml file: config/config.yaml loaded successfully]
+[2023-10-27 06:29:48,781: INFO: helper: yaml file: params.yaml loaded successfully]
+[2023-10-27 06:29:48,783: INFO: helper: yaml file: schema.yaml loaded successfully]
+[2023-10-27 06:29:48,784: INFO: helper: created directory at: artifacts]
+[2023-10-27 06:29:48,784: INFO: helper: created directory at: artifacts/data_validation]
+[2023-10-27 07:23:21,710: INFO: helper: yaml file: config/config.yaml loaded successfully]
+[2023-10-27 07:23:21,711: INFO: helper: yaml file: params.yaml loaded successfully]
+[2023-10-27 07:23:21,711: INFO: helper: yaml file: schema.yaml loaded successfully]
+[2023-10-27 07:23:21,712: INFO: helper: created directory at: artifacts]
+[2023-10-27 07:23:21,712: INFO: helper: created directory at: artifacts/data_validation]
+[2023-10-27 07:25:29,526: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2023-10-27 07:25:29,527: INFO: helper: yaml file: config/config.yaml loaded successfully]
+[2023-10-27 07:25:29,528: INFO: helper: yaml file: params.yaml loaded successfully]
+[2023-10-27 07:25:29,528: INFO: helper: yaml file: schema.yaml loaded successfully]
+[2023-10-27 07:25:29,529: INFO: helper: created directory at: artifacts]
+[2023-10-27 07:25:29,529: INFO: helper: created directory at: artifacts/data_validation]
+[2023-10-27 07:25:29,543: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<x==========x]
