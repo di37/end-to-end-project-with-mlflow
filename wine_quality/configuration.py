@@ -7,6 +7,7 @@ from utils import *
 from wine_quality.models import *
 from wine_quality.data_ingestion import *
 from wine_quality.data_validation import *
+from wine_quality.data_transformation import *
 
 class ConfigurationManager:
     def __init__(
@@ -51,3 +52,16 @@ class ConfigurationManager:
         )
 
         return data_validation_config
+
+
+    def get_data_transformation_config(self) -> DataTransformationConfig:
+        config = self.config.data_transformation
+
+        create_directories([config.root_dir])
+
+        data_transformation_config = DataTransformationConfig(
+            root_dir=config.root_dir,
+            data_path=config.data_path,
+        )
+
+        return data_transformation_config

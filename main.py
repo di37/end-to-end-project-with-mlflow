@@ -16,12 +16,23 @@ if __name__ == '__main__':
     # except Exception as e:
     #     customlogger.exception(e)
     #     raise e
+    
     ## Testing for Data Validation Pipeline
+    # try:
+    #     customlogger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<")
+    #     obj = DataValidationTrainingPipeline()
+    #     obj.main()
+    #     customlogger.info(f">>>>>> stage {STAGE_NAME} completed <<<<<<x==========x")
+    # except Exception as e:
+    #     customlogger.exception(e)
+    #     raise e
+    
+    ## Testing for Data Transformation Pipeline
     try:
         customlogger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<")
-        obj = DataValidationTrainingPipeline()
+        obj = DataTransformationTrainingPipeline()
         obj.main()
-        customlogger.info(f">>>>>> stage {STAGE_NAME} completed <<<<<<x==========x")
+        customlogger.info(f">>>>>> stage {STAGE_NAME} completed <<<<<<\n\nx==========x")
     except Exception as e:
         customlogger.exception(e)
         raise e

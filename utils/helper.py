@@ -19,6 +19,7 @@ import urllib.request as request
 import zipfile
 
 import pandas as pd
+from sklearn.model_selection import train_test_split
 
 from custom_logger import *
 
