@@ -5,6 +5,7 @@ sys.path.append(os.path.abspath(os.path.join(up(__file__), os.pardir)))
 
 from utils import *
 
+
 @dataclass(frozen=True)
 class DataIngestionConfig:
     root_dir: Path

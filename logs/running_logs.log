@@ -146,3 +146,17 @@ x==========x]
 [2023-10-27 13:16:45,111: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
 
 x==========x]
+[2023-11-02 00:11:00,751: INFO: helper: yaml file: config/config.yaml loaded successfully]
+[2023-11-02 00:11:00,760: INFO: helper: yaml file: params.yaml loaded successfully]
+[2023-11-02 00:11:00,777: INFO: helper: yaml file: schema.yaml loaded successfully]
+[2023-11-02 00:11:00,781: INFO: helper: created directory at: artifacts]
+[2023-11-02 00:11:00,788: INFO: helper: created directory at: artifacts/model_trainer]
+[2023-11-02 00:35:14,027: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2023-11-02 00:35:14,028: INFO: helper: yaml file: config/config.yaml loaded successfully]
+[2023-11-02 00:35:14,029: INFO: helper: yaml file: params.yaml loaded successfully]
+[2023-11-02 00:35:14,030: INFO: helper: yaml file: schema.yaml loaded successfully]
+[2023-11-02 00:35:14,030: INFO: helper: created directory at: artifacts]
+[2023-11-02 00:35:14,030: INFO: helper: created directory at: artifacts/model_trainer]
+[2023-11-02 00:35:14,047: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
