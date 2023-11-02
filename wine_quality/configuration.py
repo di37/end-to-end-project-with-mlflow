@@ -80,6 +80,7 @@ class ConfigurationManager:
             alpha=params.alpha,
             l1_ratio=params.l1_ratio,
             target_column=schema.name,
+            metric_file_name=config.metric_file_name,
         )
 
         return model_trainer_config

@@ -19,11 +19,26 @@ import urllib.request as request
 import zipfile
 
 import pandas as pd
+import numpy as np
 from sklearn.model_selection import train_test_split
-from sklearn.linear_model import ElasticNet
+from sklearn.linear_model import ElasticNet, LinearRegression, Ridge, Lasso
+from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error
 import joblib
 
+import mlflow
+from mlflow.tracking import MlflowClient
+from mlflow.entities import ViewType
+
+import xgboost as xgb
+from hyperopt import fmin, tpe, hp, STATUS_OK, Trials
+from hyperopt.pyll import scope
+
+from utils.constants import *
 from custom_logger import *
+
+os.environ["AWS_PROFILE"] = "terraform-project"
+mlflow.set_tracking_uri(f"http://ec2-3-231-221-215.compute-1.amazonaws.com:5000")
+mlflow.set_experiment(experiment_id="379144090779494866")
 
 
 @ensure_annotations
